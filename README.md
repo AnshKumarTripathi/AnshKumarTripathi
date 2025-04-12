@@ -53,7 +53,7 @@ Blockchain:       Monero CLI/GUI, XMRig miner setup
 ```bash
 curl -s https://github.com/AnshKumarTripathi | grep "👁️"
 ```
-
+> Secrets lie in plain sight 👁️
 > "The quieter you become, the more you can hear..."  
 > — *Ram Dass*
 
